@@ -1,0 +1,11 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.oscuro {
+  background-color: black;
+}
+.oscuro h1 {
+  color: white;
+}
